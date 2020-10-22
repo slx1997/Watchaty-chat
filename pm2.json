@@ -1,0 +1,12 @@
+[
+  {
+    "name":"wetchaty",
+    "script": "node index.js",
+    "en_dev":{
+         "NODE_ENV":"development"
+    },
+    "env_production":{
+         "NODE_ENV":"production"
+    }
+  }
+]
