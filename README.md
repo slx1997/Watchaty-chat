@@ -7,7 +7,7 @@
 
 
 
-[Wechaty|NodeJS基于iPad协议手撸一个简单的微信机器人助手-暖喵先森](https://www.zyslx.com)
+[Wechaty|NodeJS基于iPad协议手撸一个简单的微信机器人助手-暖喵先森](https://www.zyslx.com/article/11)
 
 
 
